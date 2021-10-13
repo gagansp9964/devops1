@@ -1,1 +1,2 @@
 First line of my file
+additional line added in master branch
